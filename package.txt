@@ -1,0 +1,9 @@
+NAME=netsurf
+VERSION=3.7
+REVISION=1
+LICENSE=GPL-2.0-only
+SRC=http://download.netsurf-browser.org/netsurf/releases/source-full/netsurf-all-3.7.tar.gz
+SRCMD5=9e950c35305a6c567b0592b851e8b687
+BUILDDEPS=pkg-config flex bison perl_html-parser curl libpng sdl freetype2 font_dejavu-ttf
+INSTALLDEPS=pkg-config flex bison perl_html-parser curl libpng sdl freetype2 font_dejavu-ttf
+PURGE=yes
