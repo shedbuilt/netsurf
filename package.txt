@@ -1,9 +1,9 @@
 NAME=netsurf
-VERSION=3.8
-REVISION=2
+VERSION=3.10
+REVISION=3
 LICENSE=GPL-2.0-only
-SRC=http://download.netsurf-browser.org/netsurf/releases/source-full/netsurf-all-3.8.tar.gz
-SRCMD5=cf3e00b98b630d552ae694be52e23c8a
+SRC=http://download.netsurf-browser.org/netsurf/releases/source-full/netsurf-all-3.10.tar.gz
+SRCMD5=f5b2ea34c85775941ab3c2144783d396
 BUILDDEPS=flex bison perl_html-parser curl libpng libjpeg-turbo sdl freetype2 font_dejavu-ttf
 INSTALLDEPS=flex bison perl_html-parser curl libpng libjpeg-turbo sdl freetype2 font_dejavu-ttf
 PURGE=yes
